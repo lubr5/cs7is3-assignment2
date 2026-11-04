@@ -1,10 +1,10 @@
 # CS7IS3 Assignment 2
 
 ### Team:
-Stefan D'Souza<br>
-Liam Coveney<br>
-Lucia Brown<br>
-Eesha Yogesh Inamdar<br>
+Stefan D'Souza - Setup Lead<br>
+Liam Coveney - Researcher & Query Writer<br>
+Lucia Brown - Journal Keeper<br>
+Eesha Yogesh Inamdar - Indexer Lead<br>
 
 ### TODO (high-level):
 1. Build Index<br>
